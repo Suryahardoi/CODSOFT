@@ -1,0 +1,1 @@
+I'd be happy to help you with Task 3 of the CodSoft Internship, Word count in C++. Please provide the necessary information, such as the requirements, instructions, and any specific code you have, so that I can assist you further with the implementation of the  Word Count.
